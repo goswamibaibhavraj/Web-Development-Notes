@@ -1,25 +1,29 @@
-# HTML and CSS Practice
 
-This repository contains my practical work while learning web development.
+# Web Development Notes
 
-I use it to save examples, try out the topics covered in class, and practise writing HTML and CSS. I have also started keeping a few basic JavaScript files here.
+This repository contains my web development practice and code examples.
 
-## Folder overview
+I use it to save the things I learn while working with HTML, CSS, and JavaScript. It also helps me keep track of different topics and find code examples whenever I need to revise something.
 
-- **HTML:** Basic HTML practice, including text, lists, links, images, audio, video, forms, tables, and semantic elements.
-- **HTMLwithCSS:** CSS practice covering basic styling, the box model, Grid, Flexbox, units, and backgrounds.
-- **JavaScript:** Starter files for learning JavaScript fundamentals.
+## What You'll Find Here
 
-## Technologies
+### HTML
+Basic HTML examples, page structure, headings, paragraphs, lists, links, images, forms, and other elements.
 
-- HTML
-- CSS
-- JavaScript basics
+### CSS
+Styling practice, selectors, colors, backgrounds, the box model, layouts, Flexbox, and Grid.
 
-## How to view the files
-
-Open the folder you want to explore and open an `.html` file in a browser. Some practical files may use local images or other assets stored in the same repository.
+### JavaScript
+Basic JavaScript examples, variables, data types, operators, functions, and other concepts as I learn them.
 
 ## Purpose
 
-This is a learning repository, so the examples may be simple and are updated as I continue practising.
+- Keep my code examples in one place.
+- Practise different web development concepts.
+- Refer back to code whenever I forget something.
+- Improve my understanding by trying small examples.
+
+## About
+
+This is my personal web development learning repository.
+I will keep adding new examples and updating the code as I learn more.
